@@ -13,8 +13,7 @@ Bridget Kabacinski
 This project involves building a movie information application similar to IMDb using API, Ajax and JSON.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bkabacinski.github.io/lesson8_ajax/Lesson8_Assignment/index.html
 
 ### Lessons Learned in the Assignment:
 1. The two things Ajax relies on are a programming language and a data interchange format.
